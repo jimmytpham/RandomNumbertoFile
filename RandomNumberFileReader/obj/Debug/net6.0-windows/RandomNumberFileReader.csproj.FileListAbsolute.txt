@@ -1,0 +1,17 @@
+D:\School\COMP 2211\RandomNumberFileReader\bin\Debug\net6.0-windows\RandomNumberFileReader.exe
+D:\School\COMP 2211\RandomNumberFileReader\bin\Debug\net6.0-windows\RandomNumberFileReader.deps.json
+D:\School\COMP 2211\RandomNumberFileReader\bin\Debug\net6.0-windows\RandomNumberFileReader.runtimeconfig.json
+D:\School\COMP 2211\RandomNumberFileReader\bin\Debug\net6.0-windows\RandomNumberFileReader.dll
+D:\School\COMP 2211\RandomNumberFileReader\bin\Debug\net6.0-windows\RandomNumberFileReader.pdb
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.csproj.AssemblyReference.cache
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.Form1.resources
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.csproj.GenerateResource.cache
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.AssemblyInfoInputs.cache
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.AssemblyInfo.cs
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.csproj.CoreCompileInputs.cache
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.dll
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\refint\RandomNumberFileReader.dll
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.pdb
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\RandomNumberFileReader.genruntimeconfig.cache
+D:\School\COMP 2211\RandomNumberFileReader\obj\Debug\net6.0-windows\ref\RandomNumberFileReader.dll
